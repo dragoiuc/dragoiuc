@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dragoiuc&theme=darcula&hide_border=true&background=FFFFFF00"
+    alt="dragoiuc's GitHub streak"
+  />
+  <!-- <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragoiuc&theme=github_dark"
+    alt="dragoiuc's GitHub profile summary"
+  /> -->
+
+</p>
 
 <!--
 **dragoiuc/dragoiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
