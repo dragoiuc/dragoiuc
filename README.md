@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub!👋
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=dragoiuc&theme=darcula&hide_border=true&background=FFFFFF00"
