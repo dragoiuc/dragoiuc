@@ -12,7 +12,7 @@
 
 </p>
 
-## https://cristiandragoiu.com <--- My Portfolio
+## www.cristiandragoiu.com <--- My Portfolio
 
 <!--
 **dragoiuc/dragoiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
